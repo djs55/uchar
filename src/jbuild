@@ -1,0 +1,5 @@
+(jbuild_version 1)
+(library
+  ((name uchar)
+   (public_name uchar)
+   (wrapped false)))
